@@ -34,13 +34,13 @@ body {
 }
 
 .textbox{
-    margin-top: 250px;
+    margin-top: 400px;
     padding-left: 10px;
 }
 
 .textbox h1{
     color: rgb(220, 220, 220);
-    font-size: 60px;
+    font-size: 70px;
     line-height: 80px;
 }
 
